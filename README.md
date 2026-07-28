@@ -4,7 +4,6 @@ A full-stack real-time quiz platform built with Next.js 14, TypeScript, MongoDB,
 
 QuzWhiz allows users to create, publish, and share quizzes through public links while participants compete on a live leaderboard that updates instantly as new submissions arrive.
 
-**Live Demo:** https://o-quizz-ooo.vercel.app/
 
 ---
 
@@ -117,20 +116,11 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/dashboard
 
 ## Local Development
 
-```bash
-git clone https://github.com/anujgupta018/o-quizz-0.git
-
-cd o-quizz-0
-
-npm install
-
-npm run dev
-```
 
 Open:
 
 ```bash
-http://localhost:3000
+http://localhost:3001
 ```
 
 ---
@@ -174,6 +164,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Anuj Gupta
-
-GitHub: https://github.com/anujgupta018
+Anant Agarwal
