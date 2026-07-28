@@ -1,8 +1,8 @@
-# QuzWhiz
+# QuizWhiz
 
 A full-stack real-time quiz platform built with Next.js 14, TypeScript, MongoDB, Clerk Authentication, Socket.io, Framer Motion, and Tailwind CSS.
 
-QuzWhiz allows users to create, publish, and share quizzes through public links while participants compete on a live leaderboard that updates instantly as new submissions arrive.
+QuizWhiz allows users to create, publish, and share quizzes through public links while participants compete on a live leaderboard that updates instantly as new submissions arrive.
 
 
 ---
