@@ -53,7 +53,7 @@ Leaderboard rankings update instantly through Socket.io whenever a new participa
 
 ## UI & Design
 
-O-Quizz-0 follows a custom Neubrutalist design system built around:
+QuizWhiz follows a custom Neubrutalist design system built around:
 
 - Thick black borders
 - Hard offset shadows
