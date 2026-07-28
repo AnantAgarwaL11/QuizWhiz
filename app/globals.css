@@ -29,6 +29,13 @@
   }
 }
 
+/* Hide Clerk Keyless Dev Mode Popup */
+#clerk-components,
+div[class*="clerk-keyless"],
+div[id*="clerk-keyless"] {
+  display: none !important;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
